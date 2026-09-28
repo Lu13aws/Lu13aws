@@ -37,4 +37,6 @@ Looking for a Business Analyst / Requirements Engineer role where business
 analysis meets data, cloud and AI.
 
 [Portfolio](https://www.bridging-data.com) ·
-[LinkedIn](https://www.linkedin.com/in/luciano-sulaimon/)
+[LinkedIn](https://www.linkedin.com/in/luciano-sulaimon/) ·
+[Project Video: AI Consulting Accelerator](https://www.loom.com/share/f02e8a3f2c2a4e14be79975a32ac564a) ·
+[Project Video: AI Platform](https://www.loom.com/share/975adc8ae779454a8da4d44f7d71ee6d)
